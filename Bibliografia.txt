@@ -1,0 +1,26 @@
+Python Basics:
+https://www.w3schools.com/python/default.asp
+
+Python + MySQL:
+https://www.w3schools.com/python/python_mysql_getstarted.asp
+
+API Google Drive:
+https://developers.google.com/drive/api
+
+PyDrive:
+https://pythonhosted.org/PyDrive/index.html
+
+Resolucion de errores:
+https://stackoverflow.com/
+
+API GMail:
+https://developers.google.com/gmail/api
+
+simpleGmail:
+https://github.com/jeremyephron/simplegmail
+
+Docker:
+https://docs.docker.com/get-started/
+
+PySimpleGUI:
+https://pysimplegui.readthedocs.io/en/latest/
